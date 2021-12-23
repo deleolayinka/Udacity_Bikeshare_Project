@@ -26,10 +26,10 @@ Birth Year
 
 The original files are much larger, and you don't need to download them, but they can be accessed here if you'd like to see them (Chicago, New York City, Washington). These files had more columns and they differed in format in many cases. Some data wrangling has been performed to condense these files to the above core six columns to make your analysis and the evaluation of your Python skills more straightforward.
 
-# Statistics Computed
+# Insights Computed
 Analyzed the data related to bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics
 
-In this project, written code was used to provide the following information:
+In this project, the following information were computed:
 ## 1. Popular times of travel (i.e., occurs most often in the start time):
 * most common month
 * most common day of week
