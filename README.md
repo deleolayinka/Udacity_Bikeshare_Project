@@ -1,4 +1,7 @@
 # Basic Data Exploration with pandas on Bikeshare Data
+A python project using pandas to explore bikeshare data.
+
+# Project Overview
 Over the past decade, bicycle-sharing systems have been growing in number and popularity in cities across the world. 
 Bicycle-sharing systems allow users to rent bicycles on a very short-term basis for a price. 
 This allows people to borrow a bike from point A and return it at point B, though they can also return it to the same location if they'd like to just go for a ride. 
@@ -53,7 +56,7 @@ In this project, the following information were computed:
 * earliest, most recent, most common year of birth (only available for NYC and Chicago)
 
 ## 5. File indexing 
-* Show 10 rows of the raw data
+* Show 5 rows of the raw data
 
 # Technologies Used:
 * Python
