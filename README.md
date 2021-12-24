@@ -62,6 +62,7 @@ In this project, the following information were computed:
 * Python
 * Numpy and Pandas
 * Visual Studio Code
+* Sublime
 * Atom
 * Terminal
 
