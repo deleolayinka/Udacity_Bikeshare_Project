@@ -1,5 +1,5 @@
 # Basic Data Exploration with pandas on Bikeshare Data
-A python project using pandas to explore bikeshare data.
+A python project using pandas to explore bikeshare data...
 
 # Project Overview
 Over the past decade, bicycle-sharing systems have been growing in number and popularity in cities across the world. 
